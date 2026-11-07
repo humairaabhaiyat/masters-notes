@@ -1,0 +1,8 @@
+-  Hybrid often uses machine learning.
+- Used deep neural networks for robust and accurate recommendations
+- Natural language processing techniques such as latent Dirichlet allocation (LDA) and latent semantic analysis (LSA)
+- LSA can create extensive textual profiles. Textual features contains inherent biases and uncertainties  [[Recommender System for University Degree Selection.pdf#page=4&selection=90,46,93,26|in]] [[Recommender system for university degree selection]]
+- In education rs fuzzy logic used -> mitigates vagueness by using linguistic variable and combining other approaches eg clustering
+- Ontology used -> trasnform human generated data to machine readable language which is used in lmahine learning solutions such as 
+	- system collect data from student via profiles
+	- machine learning methods creates cluster profile models  [[Recommender System for University Degree Selection.pdf#page=5&selection=40,0,47,72|Recommender System for University Degree Selection, page 5]] 
